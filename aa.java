@@ -12,11 +12,11 @@ public class FileClient {
 	 */
 	public static void main(String[] args) {
 		if(args.length != 1) {
-			System.out.print("missed the filename");
+aasd		System.out.print("missed the filename");
 			System.exit(-1);
 		}
 		
-		Socket socket = null;
+kljqwek		Sockt socket = null;
 		FileOutputStream fos = null;
 		InputStream is = null;
 		byte[] buff = new byte[1024];
